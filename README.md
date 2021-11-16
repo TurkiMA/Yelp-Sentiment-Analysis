@@ -6,11 +6,13 @@ Yelp is one of the most famous business review app in the Western Hemisphere cou
 
 ## Project Objective:
 
-building unsupervised Natural Language Processing (NLP) machine learning models to predict whether a business review text is positive or negative. Also, to build a recommendation system based on user id and review rating to predict the best business match for every user. Moreover, we will use NLP and unsupervised machine learning to find out what is the business domain based on users reviews text, and keywords.
+Building unsupervised Natural Language Processing (NLP) machine learning models to predict whether a business review text is positive or negative. Also, to build a recommendation system based on user id and review rating to predict the best business match for every user. Moreover, we will use NLP and unsupervised machine learning to find out what is the business domain based on users reviews text, and keywords.
 
 ## Data Description:
 
-The datasets were imported from Kaggle in json format. Two datasets(reviews and business) contain over 8 million observations and 16 columns. some of them will be very useful for our goals such as text, user id, business id, stars for rating, and business name. stars (rating) between 1 to 5 were converted to the sentiment with 4 and 5 being positive and 1 and 2 negative. note 3-star rating where dropped.
+The datasets were imported from [Yelp](https://www.yelp.com/dataset) in json format. Two datasets(reviews and business) contain over 8 million observations and 16 columns. some of them will be very useful for our goals such as text, user id, business id, stars for rating, and business name. stars (rating) between 1 to 5 were converted to the sentiment with 4 and 5 being positive and 1 and 2 negative. 
+ 
+ Note: 3-star rating where dropped.
 
 ## Stratgy:
 
@@ -20,5 +22,5 @@ The datasets were imported from Kaggle in json format. Two datasets(reviews and 
 -	Perform dimensionality reduction/topic modeling
 -	Apply the results of dimensionality reduction/topic modeling
 
-## Tools
-•Jupyter Notebook •Seaborn •Matplotlib •Numpy •Pandas •Sklearn •Pickle •nltk •string •Regular expression
+## Tools:
+•Jupyter Notebook •Seaborn •Matplotlib •Numpy •Pandas •Sklearn •Pickle •Nltk •String •Regular Expression
