@@ -1,4 +1,4 @@
-# Yelp Reviews Modeling and Recommendation System
+# Yelp Sentiment Analysis
 
 ## Introduction:
 
