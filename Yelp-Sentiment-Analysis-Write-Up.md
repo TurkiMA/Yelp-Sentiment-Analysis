@@ -24,23 +24,19 @@ We designed two recommendation systems showing what business you should try and 
 
 | Model | Count Vectorizer Train | Count Vectorizer Validation | Count Vectorizer F1-Score | 
 | :---: | :---: | :---: | :---: | 
-| Logistic Regression | 0.944 | 0.936  | 0.544 | 
-| MultinomialNB| 0.891 | 0.891 | 0 | 
-| BernoulliNB | 0.870 | 0.871 | 0 | 
-| Logistic Regression Weighted | 0.938| 0.927  | 0 |
-| Ada Boost | 0.868 | 0.869  | 0| 
-| Random Forest | 0.8580 | 0.8616  | 0 | 
-| Extra Tree| 0.8916 | 0.8856  | 0 | 
+| Logistic Regression | 0.944 | 0.936  | 0.959 | 
+| MultinomialNB| 0.891 | 0.891 | 0.930 | 
+| BernoulliNB | 0.870 | 0.871 | 0.918 | 
+| Logistic Regression Weighted | 0.938| 0.927  | 0.952 |
+| Ada Boost | 0.868 | 0.869  | 0.919| 
 
 | Model | TF-IDF-Train | TF-IDF-Validation | TF-IDF-F1-Score | 
 | :---: | :---: | :---: | :---: | 
-| Logistic Regression | 0.940 | 0.937  | 0 | 
-| MultinomialNB| 0.898 | 0.898 | 0 | 
-| BernoulliNB | 0.870 | 0.871 | 0 | 
-| Logistic Regression Weighted | 0.934| 0.927  | 0 |
-| Ada Boost | 0.868 | 0.868  | 0| 
-| Random Forest | 0.9035 | 0.9067  | 0 | 
-| Extra Tree| 0.9266 | 0.9179  | 0 | 
+| Logistic Regression | 0.940 | 0.937  | 0.960 | 
+| MultinomialNB| 0.898 | 0.898 | 0.937 | 
+| BernoulliNB | 0.870 | 0.871 | 0.918 | 
+| Logistic Regression Weighted | 0.934| 0.927  | 0.953 |
+| Ada Boost | 0.868 | 0.868  | 0.919| 
 
 #### Count Vectorizer NMF
 
