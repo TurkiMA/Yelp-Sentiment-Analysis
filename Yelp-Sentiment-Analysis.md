@@ -52,7 +52,7 @@ We designed two recommendation systems showing what business you should try and 
 - Topic: 5(food) chicken, fried, rice, sandwich, salad, spicy, sauce, crisp, lunch, fries, hot, wings, sides, curry, thai, soup, juicy, beans, cheese, dry
 
 
-#### Negative recommendation System output example:
+#### Negative recommendation system output example:
 
 User-ID ‘t5SRIRU6INiAyVkiMJhRPA’
 Don’t go to these businesses :[('Prides Osteria'), ('Bonchon Salem'),("Santarpio's Pizza")]
